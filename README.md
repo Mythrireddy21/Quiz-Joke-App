@@ -32,8 +32,6 @@ An engaging and responsive web application that combines an interactive multiple
 4. The "Next" button appears, allowing users to proceed to the next question.
 5. After all questions are answered, a final score screen is displayed with the option to restart the quiz.
 
----
-
 ## Setup and Installation
 
 1. Clone the repository:
@@ -52,7 +50,7 @@ An engaging and responsive web application that combines an interactive multiple
 
 > *No backend or build tools are required — just open the HTML file!*
 
----
+
 
 ## Project Structure
 
@@ -64,34 +62,27 @@ Quiz-Joke-App/
 └── script.js          # JavaScript logic including quiz and API integration
 ```
 
----
-
 ## Customization
 
 * You can easily update the quiz questions in `script.js` inside the `questions` array.
 * The JokeAPI endpoint can be modified to fetch different types or categories of jokes.
 * Styles can be customized in `style.css` to match your branding or preferences.
 
----
 
 ## License
 
 This project is open-source and available under the MIT License.
 Feel free to use, modify, and share!
 
----
 
 ## Acknowledgments
 
 * [JokeAPI](https://jokeapi.dev/) for providing a free and easy-to-use joke service.
 * Inspired by the challenge to build interactive, responsive web projects combining APIs and quizzes.
 
----
 
 ## Contact
 
 For questions or feedback, you can reach me at:
 **Name:** Mythri Reddy
 **GitHub:** [https://github.com/Mythrireddy21](https://github.com/Mythrireddy21)
-
-```
