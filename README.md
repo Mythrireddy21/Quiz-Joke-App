@@ -37,6 +37,7 @@ An engaging and responsive web application that combines an interactive multiple
 ## Setup and Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/Mythrireddy21/Quiz-Joke-App.git
 ````
@@ -46,9 +47,10 @@ An engaging and responsive web application that combines an interactive multiple
    ```bash
    cd Quiz-Joke-App
    ```
+
 3. Open the `index.html` file in your preferred web browser.
 
-*No backend or build tools are required — just open the HTML file!*
+> *No backend or build tools are required — just open the HTML file!*
 
 ---
 
@@ -89,9 +91,7 @@ Feel free to use, modify, and share!
 ## Contact
 
 For questions or feedback, you can reach me at:
-Name: Mythri Reddy
-GitHub: [https://github.com/Mythrireddy21](https://github.com/Mythrireddy21)
+**Name:** Mythri Reddy
+**GitHub:** [https://github.com/Mythrireddy21](https://github.com/Mythrireddy21)
 
 ```
-
-
