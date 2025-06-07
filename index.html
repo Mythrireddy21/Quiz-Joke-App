@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>🎉 Fun Quiz & Live Jokes</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🎉 Fun Quiz & Live Jokes 🤣</h1>
+    <div id="quiz-box" class="card">
+      <div id="question-number" class="question-number"></div>
+      <div id="question-text" class="question-text"></div>
+      <div id="options" class="options"></div>
+      <button id="next-btn" class="next-btn hidden">Next Question</button>
+    </div>
+
+    <div id="joke-box" class="card joke-card">
+      <h3>😂 Joke of the Moment</h3>
+      <div id="joke-content" class="joke-content">Loading a fun joke...</div>
+    </div>
+
+    <div id="result" class="card result-card hidden">
+      <h2>🎉 Quiz Completed!</h2>
+      <p>Your Score: <span id="score-text"></span> / 5</p>
+      <button id="restart-btn">Restart Quiz</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
